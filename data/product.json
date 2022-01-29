@@ -1,0 +1,102 @@
+[
+	{
+		"name": "Shaving Gel",
+		"price": "5000",
+		"image": "https://i.ibb.co/0cVNdZ2/Hd25b78db07f845d99aa96097842aa08d-V-jpg-720x720q50.jpg"
+	},
+	{
+		"name": "Shaving Cream",
+		"price": "2000",
+		"image": " https://i.ibb.co/VCdZx5Q/Ha90ee9ce070d4a29b6c975459a1c9603-X-jpg-720x720q50.jpg"
+	},
+	{
+		"name": "Hair Remover",
+		"price": "2500",
+		"image": " https://i.ibb.co/wYwYBJh/Uacd8441a89a443a882e375a18925f767d-jpg-720x720q50.jpg"
+	},
+	{
+		"name": "Shaving Gillette",
+		"price": "1550",
+		"image": " https://i.ibb.co/vLfdqQt/U9bfe8a7c669544eba4bb39b646d9ecb3-T-jpg-720x720q50.jpg"
+	},
+	{
+		"name": "Gel Shaving",
+		"price": "4000",
+		"image": "https://i.ibb.co/PwmTxMg/U1e2c5a62bc5546f4bac95a9ddb106cc7n-jpg-720x720q50.jpg"
+	},
+	{
+		"name": "Cream Shave",
+		"price": "2500",
+		"image": "https://i.ibb.co/3fZW25q/Hc271e12a4c784904be80ed188aeaad7br-jpg-720x720q50.jpg"
+	},
+	{
+		"name": "Cream Cologne",
+		"price": "8000",
+		"image": "https://i.ibb.co/tYPWXLb/Hd1bdaed73a7145a99171b2660668e77d-A-jpg-720x720q50.jpg"
+	},
+	{
+		"name": "Beard Oil",
+		"price": "2500",
+		"image": "https://i.ibb.co/nfdGjf3/Hce390066eeda43df9de363db7921dccdd-jpg-720x720q50.jpg"
+	},
+	{
+		"name": "After Shave Gel",
+		"price": "5000",
+		"image": "https://i.ibb.co/z61nLDK/H855ef6f16bdc45deac7dd2fcebb0b58d-B-jpg-720x720q50.jpg"
+	},
+	{
+		"name": "Shaving Foam",
+		"price": "3500",
+		"image": " https://i.ibb.co/QcNJL5z/Hc0ddab95cf5544d5a978c066b7a81bf5-Y-jpg-720x720q50.jpg"
+	},
+	{
+		"name": "Whipped Cream",
+		"price": "4000",
+		"image": " https://i.ibb.co/N9ZgCws/U3dd6d1de143747508d05f7d8670ea8f6-Y-jpg-720x720q50.jpg"
+	},
+	{
+		"name": "Gillette Sticks",
+		"price": "7000",
+		"image": "https://i.ibb.co/F8zp8vy/Ubac46bab4ca14a7ba0a355f0648e5668-C-jpeg-720x720q50.jpg"
+	},
+	{
+		"name": "Beard Butter",
+		"price": "2500",
+		"image": "https://i.ibb.co/FgXRJhs/Hc3bfbe24667d4202b480096591931b84-D-jpg-720x720q50.jpg"
+	},
+	{
+		"name": "Comb Sets",
+		"price": "1550",
+		"image": "https://i.ibb.co/r6Jn8Lj/H3012f001b0794d0599d1883227a12263y-jpg-720x720q50.jpg"
+	},
+	{
+		"name": "Shave Head",
+		"price": "2000",
+		"image": "https://i.ibb.co/7gwdxBT/H09aacbc9f6a34b649d0e0e3661702f83-F-jpg-720x720q50.jpg"
+	},
+	{
+		"name": "Shaving Blade",
+		"price": "5000",
+		"image": "https://i.ibb.co/QDwpkSg/Hedf136f616e54d7087e12a7889de020ep-jpg-720x720q50.jpg"
+	},
+	{
+		"name": "Shaving Brush",
+		"price": "8000",
+		"image": "https://i.ibb.co/Z1vM1f3/HTB1a-Q5m-XEvr-K1-Rj-Sspcq6zz-SXXa-T-jpg-720x720q50.jpg"
+	},
+	{
+		"name": "Set Shaving Foam",
+		"price": "4000",
+		"image": "https://i.ibb.co/BcMZcM3/Had5eb79ab8d04fa7afd4a4d738f541f8u-jpg-720x720q50.jpg"
+	},
+	{
+		"name": "Beard Wash Lotion",
+		"price": "2500",
+		"image": "https://i.ibb.co/sKcFm7x/U7cab1df3022a46f5bf7645e087dd73c2-F-jpg-720x720q50.jpg"
+	},
+	{
+		"name": "Beard Filter Pen",
+		"price": "2500",
+		"image": "https://i.ibb.co/pLF65h0/H5322a40e189b44ffa82bb5f54b7f29b9-H-png-720x720q50.png"
+	}
+]
