@@ -4,11 +4,11 @@ FROM node:16
 
 ENV NODE_ENV=production
 
-WORKDIR /
+WORKDIR /server
 
 COPY ["package.json", "package-lock.json*", "./"]
 
-RUN npm install --production
+RUN npm install
 
 COPY . .
 
