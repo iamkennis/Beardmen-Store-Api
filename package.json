@@ -32,5 +32,8 @@
     "slugify": "^1.6.0",
     "stripe": "8.172.0",
     "validator": "^13.6.0"
+  },
+   "engines": {
+    "node": ">=14 <15"
   }
 }
